@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
 - 💼 &nbsp; Atualmente trabalhando como Estagiária de Desenvolvimento de Sistemas.
-- 🌱 &nbsp; Aprendendo mais sobre Kotlin, JavaScript e C#.
+- 🌱 &nbsp; Aprendendo mais sobre Kotlin, Ionic e Flutter.
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
