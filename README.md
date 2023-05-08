@@ -5,8 +5,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
-- 💼 &nbsp; Atualmente trabalhando como Dev Mobile Flutter Jr na NTT DATA.
-- 🌱 &nbsp; Aprendendo mais sobre Kotlin, Ionic e Flutter.
+- 💼 &nbsp; Atualmente trabalhando como Desenvolvedora Mobile Flutter na NTT DATA.
+- 🌱 &nbsp; Aprendendo mais sobre Kotlin e Flutter.
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
