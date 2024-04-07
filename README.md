@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
+- 🎓 &nbsp; Formada em Analise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/">Uniasselvi</a>.
 - 💼 &nbsp; Atualmente trabalhando como Desenvolvedora Mobile Flutter na NTT DATA.
 - 🌱 &nbsp; Aprendendo mais sobre Kotlin e Flutter.
 
